@@ -1,4 +1,4 @@
-# Quality-Assurance-PT-EN
+# Quality-Assurance PT/EN
 Repositório para estudos em Quality Assurance - Em português e inglês 
 
 --Repository for studes on Quality Assurance - In portuguese and English
